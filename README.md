@@ -14,4 +14,7 @@ Latests Project
 
 
 
-Follow me
+### Сontact me
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/samson200289)
+[![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/ooaooammmmm)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail&logoColor=red)](samson200289@gmail.com)
