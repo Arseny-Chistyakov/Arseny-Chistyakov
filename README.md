@@ -1,6 +1,11 @@
 [![Header](https://github.com/Arseny-Chistyakov/Arseny-Chistyakov/blob/main/assets/header.png)](https://t.me/samson200289)
 
 ### I'm a beginner back-end developer
+[![trophy](https://github-profile-trophy.vercel.app/?username=arseny-chistyakov&theme=tokyonight)](https://github.com/arseny-chistyakov/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api?username=arseny-chistyakov&count_private=true&show_icons=true&theme=tokyonight" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arseny-chistyakov&theme=tokyonight)
 
 ### Latest projects
 
@@ -21,4 +26,26 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/samson200289)
 [![VK](https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/ooaooammmmm)
-![Gmail](https://img.shields.io/badge/-samson200289@gmail.com-black?style=for-the-badge&logo=Gmail&logoColor=red)
+
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' alt="">
+</p>
+
+
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/arseny-chistyakov/arseny-chistyakov/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation]
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
+
+<p align="center" >
+  <a href="https://github.com/arseny-chistyakov/github-stats-terminal-style/actions/workflows/main.yml">
+    <img src="https://github.com/arseny-chistyakov/github-stats-terminal-style/actions/workflows/main.yml/badge.svg">
+  </a>
+</p>
+
+<p align='center'>
+  <img align="center" src="./github_stats.svg">
+</p>
+
