@@ -10,6 +10,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/arseny-chistyakov/arseny-chistyakov/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ### Latest projects
+[![TODO-Card](https://github-readme-stats.vercel.app/api/pin?username=arseny-chistyakov&repo=TODO&show_owner=true&&include_all_commits=true&theme=tokyonight)](https://github.com/arseny-chistyakov/TODO)
 
 ### Languages and Tools
 
