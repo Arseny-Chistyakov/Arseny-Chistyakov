@@ -11,6 +11,7 @@
 
 ### Latest projects
 [![TODO-Card](https://github-readme-stats.vercel.app/api/pin?username=arseny-chistyakov&repo=TODO&theme=tokyonight)](https://github.com/arseny-chistyakov/TODO)
+[![rubicon](https://github-readme-stats.vercel.app/api/pin?username=arseny-chistyakov&repo=rubicon&theme=tokyonight)](https://github.com/arseny-chistyakov/rubicon)
 
 ### Languages and Tools
 
